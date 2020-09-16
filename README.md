@@ -1,7 +1,7 @@
 # node-starter
 
 
-This project uses the [MEAN stack](https://en.wikipedia.org/wiki/MEAN_(software_bundle)):
+Technologies used in the project:
 * [**M**ongoose.js](http://www.mongoosejs.com) ([MongoDB](https://www.mongodb.com)): database
 * [**E**xpress.js](http://expressjs.com): backend framework
 * [**N**ode.js](https://nodejs.org): runtime environment
