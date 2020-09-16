@@ -12,7 +12,7 @@ export class UserCtrl extends BaseCtrl {
       user.comparePassword(req.body.password, (error, isMatch) => {
         if (!isMatch) { return res.sendStatus(403); }
         const token = jwt.sign({user:user}, process.env.SECRET_TOKEN, {
-          expiresIn: "1m"
+          expiresIn: "365d"
         }); // , { expiresIn: 10 } seconds
         res.status(200).json({ token });
       });
