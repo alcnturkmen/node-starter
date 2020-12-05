@@ -29,4 +29,3 @@ Run `mongod` to run an instance of MongoDB then run `npm run testbe` to execute 
 
 ### Author
 * [Ali Can Turkmen](https://github.com/alicanturkmen)
-* yoktesbh
