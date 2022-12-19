@@ -28,4 +28,4 @@ Express files are being watched. Any change automatically creates a new bundle, 
 Run `mongod` to run an instance of MongoDB then run `npm run testbe` to execute the backend tests via [Mocha](https://mochajs.org/).
 
 ### Author
-* [Ali Can Turkmen](https://github.com/alicanturkmen)
+* [Ali Can Turkmen](https://github.com/alcnturkmen)
